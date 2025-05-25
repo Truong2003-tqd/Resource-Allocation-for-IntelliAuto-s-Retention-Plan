@@ -1,1 +1,1 @@
-# Resource-Allocation-for-IntelliAuto-s-Retention-Plan
+# Resource Allocation for IntelliAuto's Retention Plan
