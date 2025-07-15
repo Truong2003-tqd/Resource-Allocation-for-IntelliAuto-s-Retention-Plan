@@ -1,1 +1,3 @@
 # Resource Allocation for IntelliAuto's Retention Plan
+
+Welcome to my Resource Allocation Proposal for IntelliAuto's Retention Plan. In this report, I will select the most important positions that IntelliAuto should focus to ensure its factory's success in the digital transformation. The report uses R to clean data, visualize and conduct the logistic regression to predict the turnover probability. Excel Solver is the main tool used to calculate and allocate all the available resources to reduce the turnover probability of each employee by 20% and 60%. Please click [here](https://github.com/Truong2003-tqd/Resource-Allocation-for-IntelliAuto-s-Retention-Plan/blob/5bfde725447140244cc6a51df1b7a7d0f6d2a23c/Full%20Report.docx) to download the full report.
